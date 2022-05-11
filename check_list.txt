@@ -1,0 +1,11 @@
+Example
+
+Registation        pass\fail
+Email
+Social media
+Validation fields
+Authorization
+Profile
+Changing names
+Changing emails
+Phone number
